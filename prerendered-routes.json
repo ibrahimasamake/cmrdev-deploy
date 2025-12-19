@@ -1,0 +1,12 @@
+{
+  "routes": [
+    "/",
+    "/aboutconference",
+    "/calforpapers",
+    "/contactus",
+    "/keydate",
+    "/register",
+    "/schedule",
+    "/submission"
+  ]
+}
